@@ -1,0 +1,15 @@
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\bin\Debug\net6.0\homework_4.exe
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\bin\Debug\net6.0\homework_4.deps.json
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\bin\Debug\net6.0\homework_4.runtimeconfig.json
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\bin\Debug\net6.0\homework_4.dll
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\bin\Debug\net6.0\homework_4.pdb
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.csproj.AssemblyReference.cache
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.AssemblyInfoInputs.cache
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.AssemblyInfo.cs
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.csproj.CoreCompileInputs.cache
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.dll
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\refint\homework_4.dll
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.pdb
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\homework_4.genruntimeconfig.cache
+C:\Users\Fsm_v\OneDrive\Рабочий стол\GB_homework\C_sharp\sem_1\homework\homework_4\obj\Debug\net6.0\ref\homework_4.dll

@@ -9,12 +9,12 @@ int GetNumberFromRange(int start, int end)
     return number;
 }
 
-int TwoNumberGettingNumbers(int number)
+int SecondNumberGettingNumbers(int number)
 {
     int digit = number / 10 % 10;
     return digit;
 }
 
 int RandomNumber = GetNumberFromRange(100, 999);
-int TwoNumber = TwoNumberGettingNumbers(RandomNumber);
-Console.WriteLine($"вторая цифрв числа {RandomNumber} равна {TwoNumber}");
+int SecondNumber = SecondNumberGettingNumbers(RandomNumber);
+Console.WriteLine($"вторая цифрв числа {RandomNumber} равна {SecondNumber}");

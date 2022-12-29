@@ -12,17 +12,21 @@ int getUserValue(string masssege)
     return result;
 }
 
-int num = getUserValue("введите число") + 1;
-
-for (int i = 0; i < num; i++)
+void getCubeValue(int num)
 {
-    if (i < num - 1)
+    for (int i = 0; i < num; i++)
     {
-        Console.Write($"{Math.Pow(i,3)}, ");
+        if (i < num - 1)
+        {
+            Console.Write($"{Math.Pow(i,3)}, ");
+        }
+        else
+        {
+            Console.Write($"{Math.Pow(i,3)}");
+        }
+        
     }
-    else
-    {
-        Console.Write($"{Math.Pow(i,3)}");
-    }
-    
 }
+
+int num = getUserValue("введите число") + 1;
+getCubeValue(num);

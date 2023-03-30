@@ -12,6 +12,7 @@ n, m = inp('n'), inp('m')
 
 n_set = set(inp('множества n') for _ in range(n))
 m_set = set(inp('множества m') for _ in range(m))
-nm_set = sorted(n_set.intersection(m_set))
+nm_set = set(sorted(n_set.intersection(m_set)))
 
 print(nm_set)
+

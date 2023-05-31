@@ -1,11 +1,11 @@
-package homework_1;
+package homework1;
 
 /** Вывести все простые числа от 1 до 1000 */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class task2 {
+public class Task2 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,0 +1,24 @@
+html {
+    background-color: rgba(43, 42, 42, 0.164);
+    text-align: center;
+}
+h1 {
+    color: rgba(9, 2, 73, 0.808);
+}
+img {
+    height: 400px;
+}
+#img1 {
+    border-radius: 150px 0px 0px 150px
+}
+#img2 {
+    border-radius: 0px 150px 150px 0px
+}
+.txt {
+    text-align: left;
+    width: 600px;
+    margin: 10px auto;
+}
+p {
+    text-indent: 30px;
+}

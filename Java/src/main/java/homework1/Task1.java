@@ -1,9 +1,9 @@
-package homework_1;
+package homework1;
 
 /** 1. Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! */
 import java.util.Scanner;
 
-public class task1 {
+public class Task1 {
 
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);

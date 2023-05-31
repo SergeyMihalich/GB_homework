@@ -4,7 +4,7 @@ package homework_1;
 
 import java.util.Scanner;
 
-public class task3 {
+public class Task3 {
     static int scanNumber() {
         Scanner scan = new Scanner(System.in);
         int number = scan.nextInt();

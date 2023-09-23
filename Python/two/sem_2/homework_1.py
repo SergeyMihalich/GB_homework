@@ -11,5 +11,6 @@ def foo_hex():
         num = num // 16
     return f'результат функции {res}, результат метода hex {hex(hex_num)[2:]}'
 
+
 if __name__ == '__main__':
     print(foo_hex())
